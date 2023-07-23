@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, monospace, Tahoma, sans-serif;
+}
+body{
+    background-image: url('https://solarsystem.nasa.gov/internal_resources/6050/mercuryhero.jpg');
+    background-repeat: no-repeat;
+        background-position: right end ; 
+}
+.headers{
+ 
+    color: rgb(69, 62, 62);
+    text-align: center;
+}
+
+.content{
+    color: rgb(153, 153, 153);
+    background-color: rgb(255, 255, 255);
+    border: 3px  rgb(0, 0, 0)  groove ;
+    border-radius: 15px 50px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+.lists{
+    font: bold;
+    color: rgb(0, 0, 0);
+}
+
+.home{
+    color: crimson;
+    font: italic;
+}
+
+.images{
+text-align: left;
+border-image: round;
+border-radius: 15px 50px;
+}
+.links{
+    color: rgb(220, 110, 20);
+    font: oblique; 
+    text-align: right;
+}

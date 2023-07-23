@@ -1,0 +1,37 @@
+* {
+    font-family: Verdana, monospace, Tahoma, sans-serif;
+}
+body{
+    background-color: rgb(195, 211, 255);
+}
+.headers{
+ 
+    color: rgb(135, 117, 205);
+    text-align: left;
+}
+
+.content{
+    color: rgb(47, 54, 60);
+    background-color: rgb(167, 158, 218);
+    border: 3px  black  groove ;
+    border-radius: 15px 50px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+.lists{
+    font: bold;
+    color: rgb(95, 68, 68);
+}
+
+.links{
+    color: rgb(50, 220, 20);
+    font: italic;
+}
+
+.images{
+text-align: right;
+float: right;
+}

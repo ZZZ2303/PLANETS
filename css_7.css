@@ -1,0 +1,47 @@
+* { 
+    font-family: Verdana, monospace, Tahoma, sans-serif;         
+} 
+
+body{            
+   background-image: url('https://solarsystem.nasa.gov/internal_resources/6040/saturnhero.jpg');     
+   background-repeat: no-repeat;
+   background-position:  right end;       
+         
+  }    
+
+.headers{                       
+  color: rgb(182, 175, 77);             
+  text-align: center ;         
+}  
+
+.content{            
+       color: rgb(255, 238, 0);           
+       background-color: rgb(181, 181, 181);           
+       border: 3px  black  groove ;            
+       border-radius: 15px 50px;            
+       padding: 10px;             
+       margin: 10px;            
+      text-align: center;            
+       font-size: large;         
+          }    
+
+.lists{            
+    font: bold;             
+color: rgb(49, 15, 244);        
+    }   
+
+ .links{            
+   color: rgb(247, 187, 228);            
+    font: italic; 
+    text-align: right;   
+    font-size: large;    
+           } 
+
+ .images{       
+    text-align: left;       
+      }
+
+      .home{
+  color: crimson;
+  font: italic;
+}

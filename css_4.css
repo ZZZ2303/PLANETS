@@ -1,0 +1,46 @@
+* { 
+    font-family: Verdana, monospace, Tahoma, sans-serif;         
+} 
+
+body{            
+   background-image: url('https://solarsystem.nasa.gov/internal_resources/6046/earthhero.jpg');     
+   background-repeat: no-repeat;
+   background-position: right end ; 
+}
+
+.headers{                       
+  color: rgb(0, 141, 5);             
+  text-align: center;         
+}  
+
+.content{            
+       color: rgb(11, 35, 101);           
+       background-color: rgb(129, 163, 213);           
+       border: 3px  black  groove ;            
+       border-radius: 15px 50px;            
+       padding: 10px;             
+       margin: 10px;            
+      text-align: center;            
+       font-size: large;         
+          }    
+
+.lists{            
+    font: bold;             
+color: rgb(157, 80, 63);        
+    }   
+
+ .links{            
+   color: rgb(255, 0, 0);            
+    font: italic; 
+    text-align: right;   
+    font-size: large;    
+           } 
+
+ .images{       
+    text-align: left;       
+      }
+
+      .home{
+  color: crimson;
+  font: italic;
+}
